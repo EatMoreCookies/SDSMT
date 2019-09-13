@@ -1,0 +1,1 @@
+The growth rate for the vector seems to be O(n^2) while the growth rate for the list seems to be O(n). This is because, when a vector runs out of space, it dynamically allocates 2 as much as it needed as before. Therefore it takes alot more time for the iterator to get to the end of the vector than it does for the list who's removing is constant.  
