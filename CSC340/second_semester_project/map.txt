@@ -1,0 +1,32 @@
+WIDTH 20
+HEIGHT 20
+MAP
+xxxxxxxxxWxxTxxxxRxx
+xxWxxxxxxxxxxCxxxBBx
+xTxxxxxxxxBxBxxxxBxx
+xxxTxxxxxxTxxxxxxxxx
+xxxxxxxxxRxxxxxxxxxx
+xxTxxRxxxxxxTxxxxxxT
+xxxxxxxxxxxxxxCxxxxx
+xxxxxWxxxxxxxxxxxxxT
+RxxxxxxCxxxxTxxxxCBT
+xTxTxxxxxxxxxxxxxBxx
+xxxxxxxxxxxxxxxBxxxx
+xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxB
+xxxxxxxxxxxxxxxxxTxx
+xxxBxxxxxxxxxxxxxxRx
+xxxxTxxxxxxxxxxxxxxW
+xTxTxxxxxxxxxxxxxxxx
+xxRxxTxxxxxxxxTxxxxT
+xxWxxBxxxRxxxxxxxxxx
+xxTxxWRxxxxCxxxxxxxx
+
+START 10 12
+START 13 11
+START 12 19
+START 2 10
+START 9 9
+START 17 14
+START 10 3
+START 19 18

@@ -1,0 +1,57 @@
+WIDTH 30
+HEIGHT 13
+MAP
+xBxxxxxxxxxxxTxxCxxxxxxxxxxxxW
+TxxCxxxxxxxxxxxxWBxBxxxBxTBxxx
+xxxWBxBxxxBxTBxxxxxxxCxTBxxxTx
+BxxxxxxxCxTBxxxTxRRxxxxxxxRxTB
+xxTxRRxxxxxxxRxTBRxxxxxxWRxxxx
+RxTBRxxxxxxWRxxxxxxTBCxTxxxBCC
+xxxxxxTBCxTxxxBCCxxxxTTxxxxCxx
+xBCCxxxxTTxxxxCxxCxxTBxxxxxxxx
+xCxxCxxTBxxxxxxxxxxBxxxxxxxxRR
+xxxxxxBxxxxxxxxRRxWxBxBxxxxxxx
+xxRRxWxBxBxxxxxxxxxBCxxxxxCxxx
+xxxxxxBCxxxxxCxxxxxBxCBxxxxTxx
+CxxxxxBxCBxxxxTxxTxxRxBxxxxxTx
+#AI LIST: AI <NAME> <STARTX> <STARTY> <UPIMAGE> <RIGHTIMAGE> <DOWNIMAGE> <LEFTIMAGE> <BULLETIMAGE>
+AI SimpleAI 10 8
+AI SimpleAI 10 6 images/Blue/tank-25U.png images/Blue/tank-25R.png images/Blue/tank-25D.png images/Blue/tank-25L.png images/Blue/bulletB.png
+AI SimpleAI 18 12 images/Red/tank-13U.png images/Red/tank-13R.png images/Red/tank-13D.png images/Red/tank-13L.png images/Red/bulletR.png
+AI SimpleAI 11 7 images/PurpleBlueTank/PurpleBlueTank-U.png images/PurpleBlueTank/PurpleBlueTank-R.png images/PurpleBlueTank/PurpleBlueTank-D.png images/PurpleBlueTank/PurpleBlueTank-L.png images/PurpleBlueTank/bulletB.png
+AI SimpleAI 12 7 images/BWTank/BWTank-U.png images/BWTank/BWTank-R.png images/BWTank/BWTank-D.png images/BWTank/BWTank-L.png images/BWTank/bulletBW.png
+AI SimpleAI 29 6 images/BluePinkTank/BluePinkTank-U.png images/BluePinkTank/BluePinkTank-R.png images/BluePinkTank/BluePinkTank-D.png images/BluePinkTank/BluePinkTank-L.png images/BluePinkTank/bulletC.png
+AI SimpleAI 30 11 images/GreenBlueTank/GreenBlueTank-U.png images/GreenBlueTank/GreenBlueTank-R.png images/GreenBlueTank/GreenBlueTank-D.png images/GreenBlueTank/GreenBlueTank-L.png images/GreenBlueTank/bulletLi.png
+AI SimpleAI 14 11 images/GreenPurpleTank/GreenPurpleTank-U.png images/GreenPurpleTank/GreenPurpleTank-R.png images/GreenPurpleTank/GreenPurpleTank-D.png images/GreenPurpleTank/GreenPurpleTank-L.png images/GreenPurpleTank/bulletP.png
+AI SimpleAI 25 6 images/RedBlueTank/RedBlueTank-U.png images/RedBlueTank/RedBlueTank-R.png images/RedBlueTank/RedBlueTank-D.png images/RedBlueTank/RedBlueTank-L.png images/RedBlueTank/bulletR.png
+AI SimpleAI 12 6 images/WhiteTank/WhiteTank-U.png images/WhiteTank/WhiteTank-R.png images/WhiteTank/WhiteTank-D.png images/WhiteTank/WhiteTank-L.png images/WhiteTank/bulletD.png
+#FIELDIMAGE <MAP FILE>
+FIELDIMAGE images/city.png
+#OBSTACLE_IMAGE <IMAGE1> [<IMAGE2>]
+OBSTACLE_IMAGE images/tree/tree.png images/rock/rock.png
+TREE_IMAGE images/tree/tree.png images/tree/tree.png images/tree/tree.png images/tree/tree.png
+BUSH_IMAGE images/bush/bush1.png images/bush/bush2.png images/bush/bush3.png images/bush/bush4.png
+ROCK_IMAGE images/rock/rock.png images/rock/rockb.png images/rock/rockc.png
+WATER_IMAGE images/Water/waterTex.png images/Water/waterTexNS.png images/Water/waterTexES.png images/Water/waterTexSS.png images/Water/waterTexWS.png images/Water/waterTexNES.png images/Water/waterTexSES.png images/Water/waterTexSWS.png images/Water/waterTexNWS.png images/Water/waterTexEWS.png images/Water/waterTexNSS.png images/Water/waterTexNWES.png images/Water/waterTexNESS.png images/Water/waterTexSEWS.png images/Water/waterTexNWSS.png images/Water/waterTexPond.png
+#Max Turns <200>
+MAXTURNS 200i
+#TANK RULES
+#STAT <AMMOUNT>
+#VALID STATS: DAMAGE, HEALTH, RADAR, AP, SPECIAL, RANGE, AMMO
+DAMAGE 2
+HEALTH 2
+RADAR 4
+AP 2
+SPECIAL 1
+RANGE 4
+AMMO 6
+#AI IDLE SPEED: AI_SPEED <750>
+AI_SPEED 750
+#ANIMATION SPEED: ANIMATION_SPEED <20>
+ANIMATION_SPEED 20
+#BULLET SPEED: BULLET_SPEED <80>
+BULLET_SPEED 80
+#TANK SPEED: TANK_SPEED <400>
+TANK_SPEED 400
+#DISABLEGUI Disables GUI
+#DISABLEGUI
