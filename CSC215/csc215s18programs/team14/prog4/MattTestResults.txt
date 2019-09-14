@@ -1,0 +1,28 @@
+Matt test 1: This test is designed to make sure a box too big o fit on a belt falls immdiately
+	10 20 30   Add standard belt widths
+	10 100 100 Add package that should be on A, 
+ 	20 100 100 then B
+	30 100 100 then C
+	-1 -1 -1
+	0 0 0
+
+Simulation #1:
+    Box 1 has fallen off the conveyor belt A    
+    Box 2 has fallen off the conveyor belt B
+    Box 3 has fallen off the conveyor belt C
+
+Test cases pass as expected
+
+Matt test 2: make sure belts are sorted correctly by length
+
+	30 20 10   Add reverse order belt widths
+	10 100 100 Add package that should be on C, this will fall immediately as confirmed 
+ 	20 100 100 by the earlier test
+	30 100 100 
+	-1 -1 -1
+	0 0 0
+
+Simulation #1:
+    Box 1 has fallen off the conveyor belt C
+    Box 2 has fallen off the conveyor belt B
+    Box 3 has fallen off the conveyor belt A
