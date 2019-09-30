@@ -8,5 +8,6 @@ for these students to download my code and use it in their projects, unless they
 from me and their professors.
 
 
-Thank you!&nbsp
+Thank you!
+
 EatMoreCookies
