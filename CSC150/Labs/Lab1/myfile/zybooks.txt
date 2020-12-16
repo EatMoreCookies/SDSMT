@@ -1,0 +1,24 @@
+ minMiles = milesTracker[i][j];
+   for ( i = 0; i < NUM_ROWS; ++i){
+      if (milesTracker[i][j] < minMiles){
+         minMiles = milesTracker[i][j];
+   
+         for (j = 0; j < NUM_COLS; ++j){
+            if (milesTracker[i][j] < minMiles){
+               minMiles = milesTracker[i][j];
+            }
+         }
+      }
+   } 
+   maxMiles = milesTracker[i][j];
+   for ( i = 0; i < NUM_ROWS; ++i){
+      if (milesTracker[i][j] > maxMiles){
+         maxMiles = milesTracker[i][j];
+      
+         for (j = 0; j < NUM_COLS; ++j){
+            if (milesTracker[i][j] > maxMiles){
+               maxMiles = milesTracker[i][j];
+            }
+         }
+      }
+   }   

@@ -1,0 +1,12 @@
+﻿Build started 9/11/2017 9:56:29 PM.
+     1>Project "C:\Users\7416949\Documents\SDSMT\Fall 2017\CSC150\Programs\nextprog1\nextprog1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt prog1.cpp
+     1>cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
+         prog1.cpp
+     1>c:\users\7416949\documents\sdsmt\fall 2017\csc150\programs\nextprog1\prog1.cpp : fatal error C1041: cannot open program database 'c:\users\7416949\documents\sdsmt\fall 2017\csc150\programs\nextprog1\debug\vc120.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+     1>Done Building Project "C:\Users\7416949\Documents\SDSMT\Fall 2017\CSC150\Programs\nextprog1\nextprog1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.13

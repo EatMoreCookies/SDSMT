@@ -1,0 +1,11 @@
+﻿Build started 9/14/2017 9:19:35 AM.
+     1>Project "C:\Users\7416949\Documents\SDSMT\Fall 2017\CSC150\Programs\prog1\Program1\Program1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt prog1.cpp
+         prog1.cpp
+     1>C:\Users\7416949\Documents\SDSMT\Fall 2017\CSC150\Programs\prog1\Program1\prog1.cpp : fatal error C1083: Cannot open compiler generated file: 'Debug\prog1.obj': Permission denied
+     1>Done Building Project "C:\Users\7416949\Documents\SDSMT\Fall 2017\CSC150\Programs\prog1\Program1\Program1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.75

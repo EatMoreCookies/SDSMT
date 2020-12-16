@@ -1,0 +1,8 @@
+﻿Build started 9/6/2017 4:02:16 PM.
+     1>Project "C:\Users\7416949\Documents\SDSMT\Fall 2017\CSC150\Programs\prog1\prog1\prog1.vcxproj" on node 2 (Clean target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\7416949\documents\sdsmt\fall 2017\csc150\programs\prog1\prog1\debug\prog1.ilk' is denied.
+     1>Done Building Project "C:\Users\7416949\Documents\SDSMT\Fall 2017\CSC150\Programs\prog1\prog1\prog1.vcxproj" (Clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03
