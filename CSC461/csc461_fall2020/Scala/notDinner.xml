@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<thanksgiving>
+    <house id="7">
+        <person name="Kirby" hunger="200">
+            <stay  days="1" traveling="yes"/>
+        </person>
+    </house>
+</thanksgiving>

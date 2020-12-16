@@ -1,0 +1,1168 @@
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Number of stations: 
+----Station 1----
+   Length of stop time in minutes:    Name of station: 
+----Station 2----
+   Length of stop time in minutes:    Name of station: 
+----Station 3----
+   Length of stop time in minutes:    Name of station: 
+----Station 4----
+   Length of stop time in minutes:    Name of station: 
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time: 0 min
+Count: 0 Direction: RIGHT
+-----------------------------------
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: <<-release: 2.0
+    
+----Station: CC---- Cars: <<-release: 3.0
+    
+----Station: BB---- Cars: <<-release: 2.5
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: ----Station: Start---- Cars: 
+----Station: AA---- Cars: <<-release: 1.0
+----Station: BB---- Cars: <<-release: 2.0
+----Station: CC---- Cars: <<-release: 3.0
+----Station: BB---- Cars: <<-release: 2.5
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Which type: 0-->Cautious, 1-->Normal, 2-->Rush hour: 
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time: 0 min
+Count: 1 Direction: RIGHT
+-----------------------------------
+----Station: Start---- Cars: 26: 0.00   
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: <<-release: 2.0
+    
+----Station: CC---- Cars: <<-release: 3.0
+    
+----Station: BB---- Cars: <<-release: 2.5
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: ----Station: Start---- Cars: 26: 0.00   
+----Station: AA---- Cars: <<-release: 1.0
+----Station: BB---- Cars: <<-release: 2.0
+----Station: CC---- Cars: <<-release: 3.0
+----Station: BB---- Cars: <<-release: 2.5
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Number of stations: 
+----Station 1----
+   Length of stop time in minutes: Stop time must be positive and an increment of 0.5 min. Got: 0.75
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Number of stations: 
+----Station 1----
+   Length of stop time in minutes: Stop time must be positive and an increment of 0.5 min. Got: -0.5
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Number of stations: 
+----Station 1----
+   Length of stop time in minutes: Stop time must be a number. Got: minute
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Number of stations: 
+----Station 1----
+   Length of stop time in minutes:    Name of station: 
+----Station 2----
+   Length of stop time in minutes:    Name of station: 
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time: 0 min
+Count: 0 Direction: RIGHT
+-----------------------------------
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: <<-release: 2.0
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: ----Station: Start---- Cars: 
+----Station: AA---- Cars: <<-release: 1.0
+----Station: BB---- Cars: <<-release: 2.0
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Which type: 0-->Cautious, 1-->Normal, 2-->Rush hour: 
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Which type: 0-->Cautious, 1-->Normal, 2-->Rush hour: 
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Which type: 0-->Cautious, 1-->Normal, 2-->Rush hour: 
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time: 0 min
+Count: 3 Direction: RIGHT
+-----------------------------------
+----Station: Start---- Cars: 27: 0.00   28: 0.00   29: 0.00   
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: <<-release: 2.0
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  0.5
+----Station: Start---- Cars: 28: 0.00   29: 0.00   
+    27: 0.25  
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: <<-release: 2.0
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  1.0
+----Station: Start---- Cars: 29: 0.00   
+    27: 0.42  28: 0.25  
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: <<-release: 2.0
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  1.5
+----Station: Start---- Cars: 
+    27: 0.58  28: 0.42  29: 0.25  
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: <<-release: 2.0
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  2.0
+----Station: Start---- Cars: 
+    27: 0.75  28: 0.58  29: 0.50  
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: <<-release: 2.0
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  2.5
+----Station: Start---- Cars: 
+    28: 0.75  
+----Station: AA---- Cars: 27: 0.00   29: 0.00   <<-release: 0.5
+    
+----Station: BB---- Cars: <<-release: 2.0
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  3.0
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: 29: 0.00   28: 0.00   <<-release: 1.0
+    27: 0.25  
+----Station: BB---- Cars: <<-release: 2.0
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  3.5
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: 29: 0.00   28: 0.00   <<-release: 0.5
+    27: 0.50  
+----Station: BB---- Cars: <<-release: 2.0
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  4.0
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: 28: 0.00   <<-release: 1.0
+    27: 0.67  29: 0.25  
+----Station: BB---- Cars: <<-release: 2.0
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  4.5
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: 28: 0.00   <<-release: 0.5
+    29: 0.50  
+----Station: BB---- Cars: 27: 0.00   <<-release: 1.5
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  5.0
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    28: 0.25  
+----Station: BB---- Cars: 27: 0.00   29: 0.00   <<-release: 1.0
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  5.5
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    28: 0.50  
+----Station: BB---- Cars: 27: 0.00   29: 0.00   <<-release: 0.5
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  6.0
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: 29: 0.00   28: 0.00   <<-release: 2.0
+    27: 0.25  
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  6.5
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: 29: 0.00   28: 0.00   <<-release: 1.5
+    27: 0.50  
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  7.0
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: 29: 0.00   28: 0.00   <<-release: 1.0
+    
+----Station: End---- Cars: 27: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  7.5
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: 29: 0.00   28: 0.00   <<-release: 0.5
+    
+----Station: End---- Cars: 27: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  8.0
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: 28: 0.00   <<-release: 2.0
+    29: 0.25  
+----Station: End---- Cars: 27: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  8.5
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: 28: 0.00   <<-release: 1.5
+    29: 0.50  
+----Station: End---- Cars: 27: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  9.0
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: 28: 0.00   <<-release: 1.0
+    
+----Station: End---- Cars: 27: 0.00   29: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  9.5
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: 28: 0.00   <<-release: 0.5
+    
+----Station: End---- Cars: 27: 0.00   29: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  10.0
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: <<-release: 2.0
+    28: 0.25  
+----Station: End---- Cars: 27: 0.00   29: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  10.5
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: <<-release: 2.0
+    28: 0.50  
+----Station: End---- Cars: 27: 0.00   29: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Which type: 0-->Cautious, 1-->Normal, 2-->Rush hour: 
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time: 10.5 min
+Count: 4 Direction: RIGHT
+-----------------------------------
+----Station: Start---- Cars: 30: 0.00   
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: <<-release: 2.0
+    28: 0.50  
+----Station: End---- Cars: 27: 0.00   29: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  11.0
+----Station: Start---- Cars: 
+    30: 0.25  
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: <<-release: 2.0
+    
+----Station: End---- Cars: 27: 0.00   29: 0.00   28: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  11.5
+----Station: Start---- Cars: 
+    30: 0.50  
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: <<-release: 2.0
+    
+----Station: End---- Cars: 27: 0.00   29: 0.00   28: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  12.0
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: 30: 0.00   <<-release: 0.5
+    
+----Station: BB---- Cars: <<-release: 2.0
+    
+----Station: End---- Cars: 27: 0.00   29: 0.00   28: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  12.5
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    30: 0.25  
+----Station: BB---- Cars: <<-release: 2.0
+    
+----Station: End---- Cars: 27: 0.00   29: 0.00   28: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  13.0
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    30: 0.50  
+----Station: BB---- Cars: <<-release: 2.0
+    
+----Station: End---- Cars: 27: 0.00   29: 0.00   28: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  13.5
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: 30: 0.00   <<-release: 1.5
+    
+----Station: End---- Cars: 27: 0.00   29: 0.00   28: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  14.0
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: 30: 0.00   <<-release: 1.0
+    
+----Station: End---- Cars: 27: 0.00   29: 0.00   28: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  14.5
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: 30: 0.00   <<-release: 0.5
+    
+----Station: End---- Cars: 27: 0.00   29: 0.00   28: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  15.0
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: <<-release: 2.0
+    30: 0.25  
+----Station: End---- Cars: 27: 0.00   29: 0.00   28: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  15.5
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: <<-release: 2.0
+    30: 0.50  
+----Station: End---- Cars: 27: 0.00   29: 0.00   28: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  16.0
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: <<-release: 2.0
+    
+----Station: End---- Cars: 27: 0.00   29: 0.00   28: 0.00   30: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  16.5
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: <<-release: 2.0
+    27: 0.00  
+----Station: End---- Cars: 29: 0.00   28: 0.00   30: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  17.0
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: <<-release: 2.0
+    27: 0.25  29: 0.00  
+----Station: End---- Cars: 28: 0.00   30: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  17.5
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: <<-release: 2.0
+    27: 0.42  29: 0.25  28: 0.00  
+----Station: End---- Cars: 30: 0.00   
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  18.0
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: <<-release: 2.0
+    27: 0.58  29: 0.50  28: 0.17  30: 0.00  
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  18.5
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: 29: 0.00   <<-release: 2.0
+    27: 0.75  28: 0.33  30: 0.25  
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  19.0
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: 29: 0.00   27: 0.00   <<-release: 1.5
+    28: 0.50  30: 0.50  
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  19.5
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: 29: 0.00   27: 0.00   28: 0.00   30: 0.00   <<-release: 1.0
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  20.0
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    
+----Station: BB---- Cars: 29: 0.00   27: 0.00   28: 0.00   30: 0.00   <<-release: 0.5
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  20.5
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    29: 0.00  
+----Station: BB---- Cars: 27: 0.00   28: 0.00   30: 0.00   <<-release: 2.0
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  21.0
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    29: 0.25  
+----Station: BB---- Cars: 27: 0.00   28: 0.00   30: 0.00   <<-release: 1.5
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  21.5
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: <<-release: 1.0
+    29: 0.50  
+----Station: BB---- Cars: 27: 0.00   28: 0.00   30: 0.00   <<-release: 1.0
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  22.0
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: 29: 0.00   <<-release: 1.0
+    
+----Station: BB---- Cars: 27: 0.00   28: 0.00   30: 0.00   <<-release: 0.5
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  22.5
+----Station: Start---- Cars: 
+    
+----Station: AA---- Cars: 29: 0.00   <<-release: 0.5
+    27: 0.00  
+----Station: BB---- Cars: 28: 0.00   30: 0.00   <<-release: 2.0
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  23.0
+----Station: Start---- Cars: 
+    29: 0.00  
+----Station: AA---- Cars: <<-release: 1.0
+    27: 0.25  
+----Station: BB---- Cars: 28: 0.00   30: 0.00   <<-release: 1.5
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  23.5
+----Station: Start---- Cars: 
+    29: 0.25  
+----Station: AA---- Cars: <<-release: 1.0
+    27: 0.50  
+----Station: BB---- Cars: 28: 0.00   30: 0.00   <<-release: 1.0
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  24.0
+----Station: Start---- Cars: 
+    29: 0.50  
+----Station: AA---- Cars: 27: 0.00   <<-release: 1.0
+    
+----Station: BB---- Cars: 28: 0.00   30: 0.00   <<-release: 0.5
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  24.5
+----Station: Start---- Cars: 29: 0.00   
+    
+----Station: AA---- Cars: 27: 0.00   <<-release: 0.5
+    28: 0.00  
+----Station: BB---- Cars: 30: 0.00   <<-release: 2.0
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  25.0
+----Station: Start---- Cars: 29: 0.00   
+    27: 0.00  
+----Station: AA---- Cars: <<-release: 1.0
+    28: 0.25  
+----Station: BB---- Cars: 30: 0.00   <<-release: 1.5
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  25.5
+----Station: Start---- Cars: 29: 0.00   
+    27: 0.25  
+----Station: AA---- Cars: <<-release: 1.0
+    28: 0.50  
+----Station: BB---- Cars: 30: 0.00   <<-release: 1.0
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  26.0
+----Station: Start---- Cars: 29: 0.00   
+    27: 0.50  
+----Station: AA---- Cars: 28: 0.00   <<-release: 1.0
+    
+----Station: BB---- Cars: 30: 0.00   <<-release: 0.5
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: Time:  26.5
+----Station: Start---- Cars: 29: 0.00   27: 0.00   
+    
+----Station: AA---- Cars: 28: 0.00   <<-release: 0.5
+    30: 0.00  
+----Station: BB---- Cars: <<-release: 2.0
+    
+----Station: End---- Cars: 
+
+1) Show Train Line
+2) Add Train Car
+3) Update with Debug Info
+4) Show Station Details
+5) Make Test Line 
+6) Make Custom Line 
+0) Quit
+
+Choice: 

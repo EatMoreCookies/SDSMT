@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dinner>
+    <house id="10">
+        <person name="Bert" hunger="1">
+            <stay  days="2" traveling="yes"/>
+            <food name="Turkey">15</food>
+        </person>
+        <person name="Cassandra" hunger="4">
+            <stay days="2" traveling="no"/>
+            <food name="cherry pie">2</food>
+        </person>
+    </house>
+</dinner>

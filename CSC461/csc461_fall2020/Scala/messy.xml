@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dinner>
+    <house id="5">
+        <person name="Harold" hunger="1" location="Rapid City, SD">
+            <stay days="2" traveling="yes"/>
+            <food name="Turkey">20.68</food>
+        </person>
+        <person name="Bob" hunger="4">
+            <stay traveling="no"/>
+            <food name="pie">2.45</food>
+        </person>
+        <person name="Paula">
+            <stay days="1" traveling="yes"></stay>
+        </person>
+    </house>
+    <house id="4">
+        <person name="AA">
+            <food name="">12</food>
+        </person>
+    </house>
+    <house id="0">
+        <location city="Hermosa" state="SD" country="USA"/>
+    </house>
+</dinner>

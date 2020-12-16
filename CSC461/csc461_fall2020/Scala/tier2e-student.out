@@ -1,0 +1,78 @@
+
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: 
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: File Name: Could not open file: notThere.xml (The system cannot find the file specified)
+
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: File Name: Invalid XML file. Needs to be an dinner XML file
+
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: File Name: 
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: 
+House: 5
+--Name: Harold     Hunger: 1
+----Stay:
+------Traveling: yes Days: 2
+----Food:
+------Name: Turkey (20.7 lbs)
+--Name: Bob        Hunger: 4
+----Stay:
+------Traveling: no Days: 1
+----Food:
+------Name: pie (2.5 lbs)
+--Name: Paula      Hunger: 1
+----Stay:
+------Traveling: yes Days: 1
+House: 4
+--Name: AA         Hunger: 1
+----Stay:
+------Traveling: no Days: 1
+----Food:
+------Name:  (12.0 lbs)
+House: 0
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: 

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dinner>
+    <house id="1">
+        <location city="Rapid City" state="SD" country="USA"/>
+        <person name="Harold" hunger="1">
+            <stay  days="2" traveling="yes"/>
+            <food name="Turkey">20</food>
+        </person>
+        <person name="Bob" hunger="4">
+            <stay days="5" traveling="no"/>
+            <food name="pie">2</food>
+            <food name="biscuits">2.5</food>
+            <food name="beans">4</food>
+        </person>
+        <person name="Paula">
+            <stay days="1" traveling="yes"/>
+        </person>
+    </house>
+    <house id="2">
+        <person name="Charlie Brown">
+            <food name="rolls">3</food>
+        </person>
+        <person name="Lucy">
+            <food name="dressing">4</food>
+        </person>
+        <person name="Linus">
+            <food name="cherry pie">2.5</food>
+        </person>
+        <person name="Snoopy">
+            <food name="Turkey">20</food>
+        </person>
+        <person name="Peppermint Patty">
+            <food name="yams">2</food>
+        </person>
+        <person name="Woodstock">
+            <food name="cranberries">2</food>
+        </person>
+        <person name="Marcie">
+            <food name="fudge">3.5</food>
+        </person>
+        <person name="Franklin">
+            <food name="salad">2</food>
+        </person>
+    </house>
+    <house id="0">
+        <location city="Hermosa" state="SD" country="USA"/>
+    </house>
+    <house id="3">
+        <person name="Kirby" hunger="200">
+            <stay days="1" traveling="no"/>
+        </person>
+        <person name="Micheal Phelps" hunger="7">
+            <stay days="1" traveling="yes"/>
+            <food name="Turkey">25</food>
+            <food name="green beans">8</food>
+            <food name="rolls">7</food>
+        </person>
+        <person name="Scooby Doo" hunger="12">
+            <stay days="2" traveling="yes"/>
+            <food name="dressing">8</food>
+            <food name="Turkey">28</food>
+            <food name="cranberries">2</food>
+            <food name="yams">10</food>
+            <food name="green beans">8</food>
+        </person>
+        <person name="Goku" hunger="50">
+            <stay days="1" traveling="yes"/>
+        </person>
+    </house>
+</dinner>

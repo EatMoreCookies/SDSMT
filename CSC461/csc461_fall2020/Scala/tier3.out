@@ -1,0 +1,417 @@
+
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: 
+
+
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: File name: Could not open file: notThere.xml (The system cannot find the file specified)
+
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: File name: Invalid xml file. Needs to be an dinner xml file
+
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: File name: 
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: What house code: Removed 1
+
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: What house code: House code not found
+
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: What house code: Removed 3
+
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: 
+House: 2 
+--Name: Charlie Brown Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: rolls (3.0 lbs)
+--Name: Lucy       Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: dressing (4.0 lbs)
+--Name: Linus      Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: cherry pie (2.5 lbs)
+--Name: Snoopy     Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: Turkey (20.0 lbs)
+--Name: Peppermint Patty Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: yams (2.0 lbs)
+--Name: Woodstock  Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: cranberries (2.0 lbs)
+--Name: Marcie     Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: fudge (3.5 lbs)
+--Name: Franklin   Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: salad (2.0 lbs)
+House: 0 
+
+
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: What house code: Added house code
+
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: What house code: 
+What person: Added person
+
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: What house code: 
+What person: 
+Add hunger: 
+Add stay y/n? 
+Update traveling: Update days: 
+Add food y/n? 
+Name: Weight: 
+Add food y/n? 
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: 
+House: 2 
+--Name: Charlie Brown Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: rolls (3.0 lbs)
+--Name: Lucy       Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: dressing (4.0 lbs)
+--Name: Linus      Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: cherry pie (2.5 lbs)
+--Name: Snoopy     Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: Turkey (20.0 lbs)
+--Name: Peppermint Patty Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: yams (2.0 lbs)
+--Name: Woodstock  Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: cranberries (2.0 lbs)
+--Name: Marcie     Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: fudge (3.5 lbs)
+--Name: Franklin   Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: salad (2.0 lbs)
+House: 0 
+
+House: 8 
+--Name: Bob        Hunger: 2
+----Stay: 
+------Traveling: yes Days: 2
+----Food: 
+------Name: Turkey (15.0 lbs)
+
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: What house code: 
+What person: Added person
+
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: What house code: 
+What person: 
+Add hunger: 
+Add stay y/n? 
+Update traveling: Update days: 
+Add food y/n? 
+Name: Weight: 
+Add food y/n? 
+Name: Weight: 
+Add food y/n? 
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: 
+House: 2 
+--Name: Charlie Brown Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: rolls (3.0 lbs)
+--Name: Lucy       Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: dressing (4.0 lbs)
+--Name: Linus      Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: cherry pie (2.5 lbs)
+--Name: Snoopy     Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: Turkey (20.0 lbs)
+--Name: Peppermint Patty Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: yams (2.0 lbs)
+--Name: Woodstock  Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: cranberries (2.0 lbs)
+--Name: Marcie     Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: fudge (3.5 lbs)
+--Name: Franklin   Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: salad (2.0 lbs)
+House: 0 
+
+House: 8 
+--Name: Bob        Hunger: 2
+----Stay: 
+------Traveling: yes Days: 2
+----Food: 
+------Name: Turkey (15.0 lbs)
+--Name: Phil       Hunger: 4
+----Stay: 
+------Traveling: no Days: 3
+----Food: 
+------Name: Dressing (5.0 lbs)
+------Name: Potatoes (2.0 lbs)
+
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: File name: 
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: 
+House: 2 
+--Name: Charlie Brown Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: rolls (3.0 lbs)
+--Name: Lucy       Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: dressing (4.0 lbs)
+--Name: Linus      Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: cherry pie (2.5 lbs)
+--Name: Snoopy     Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: Turkey (20.0 lbs)
+--Name: Peppermint Patty Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: yams (2.0 lbs)
+--Name: Woodstock  Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: cranberries (2.0 lbs)
+--Name: Marcie     Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: fudge (3.5 lbs)
+--Name: Franklin   Hunger: 1
+----Stay: 
+------Traveling: no Days: 1
+----Food: 
+------Name: salad (2.0 lbs)
+House: 0 
+
+House: 8 
+--Name: Bob        Hunger: 2
+----Stay: 
+------Traveling: yes Days: 2
+----Food: 
+------Name: Turkey (15.0 lbs)
+--Name: Phil       Hunger: 4
+----Stay: 
+------Traveling: no Days: 3
+----Food: 
+------Name: Dressing (5.0 lbs)
+------Name: Potatoes (2.0 lbs)
+House: 10 
+--Name: Bert       Hunger: 1
+----Stay: 
+------Traveling: yes Days: 2
+----Food: 
+------Name: Turkey (15.0 lbs)
+--Name: Cassandra  Hunger: 4
+----Stay: 
+------Traveling: no Days: 2
+----Food: 
+------Name: cherry pie (2.0 lbs)
+
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: File name: 
+1) Add data
+2) Display data
+3) Remove house
+4) Load XML
+5) Write XML
+6) Find food
+7) Estimate leftovers
+0) Quit
+Choice: 

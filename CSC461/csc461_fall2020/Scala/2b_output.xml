@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dinner><house code="1"><person name="Bob" hunger="2"><stay days="2" traveling="yes"></stay><food name="Turkey">15.0</food></person><person name="Kirby" hunger="1"><stay days="1" traveling="no"></stay></person></house><house code="2"><person name="Phil" hunger="4"><stay days="3" traveling="no"></stay><food name="Dressing">5.0</food><food name="Potatoes">2.0</food></person></house></dinner>
