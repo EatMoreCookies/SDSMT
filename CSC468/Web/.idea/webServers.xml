@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a5d9e425-0a8f-45ee-958c-e27f457ccbca" name="MyWebServer" url="https://dev.cse.sdsmt.edu/~7416949/">
+        <fileTransfer rootFolder="/home/student/7416949/www" accessType="SFTP" host="linux101.cse.sdsmt.edu" port="22" sshConfigId="368439f3-7931-45ea-9856-b42559e83913" sshConfig="7416949@linux101.cse.sdsmt.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="e3819f3c-860f-4c81-b57d-c520ab2841d1" name="MyLocalServer" url="http://localhost:5500">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

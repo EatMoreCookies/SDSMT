@@ -1,0 +1,135 @@
+body {
+    background-image: linear-gradient(darkseagreen, lightseagreen);
+}
+
+.header {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+  }
+
+.nav {
+    margin: auto;
+    background-color: lightblue;
+    text-align: center;
+    border-style: solid;
+    padding: 10px;
+    width: 300px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.HelpPageBody{
+    color: white;
+    padding: 10px;
+    margin: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#HelpPageLinks{
+    background-color: lightblue;
+    border-style: solid;
+    padding: 10px;
+    width: 300px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a:active {
+    color: red;
+}
+
+.loadImage{
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.imageHead{
+    margin: auto;
+    text-align: center;
+    border-style: solid;
+    margin: 10px;
+}
+
+.imageBody{
+    text-align: center;
+    border-style: solid;
+    margin: 10px;
+}
+
+.imageArm{
+    text-align: center;
+    border-style: solid;
+    margin: 10px;
+}
+
+.imageLegs{
+    margin: auto;
+    text-align: center;
+    border-style: solid;
+    margin: 10px;
+}
+
+.buttonStd {
+    background-color: lightblue; 
+    border: none;
+    color: black;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px;
+}
+
+#uploadTextBox{
+    height:36px;
+}
+
+.stickman{
+    float:right;
+    text-align: center;
+    border-style: solid;
+    line-height: 0;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.midsection{
+    line-break:loose;
+}
+
+.displayButtons{
+    margin: 5px;
+}
+
+.saveButton{
+    margin: auto;
+    text-align: right;
+}
+
+.cssRule{
+    margin: 20px;
+}
+
+#downloadLink{
+    margin: 10px;
+}
+
+.rotate{
+    width:50px;
+    height:50px;
+    animation: rotation 2s infinite linear;
+}
+
+@keyframes rotation {
+    from {
+        transform: rotate(359deg);
+    }
+    to {
+        transform: rotate(0deg);
+    }
+}
+
+#table {
+    float: left;
+}

@@ -1,0 +1,359 @@
+<html>
+  <header>
+    <link rel="stylesheet" href="css/index.css" />
+    <div class="header">
+      <h1>Help</h1>
+    </div>
+    <div>
+      <nav class="nav">
+        <a href="index.php">Home</a>
+        <a href="FileManagement.php">Manage Files</a>
+        <a href="HelpPage.html">Help</a>
+      </nav>
+    </div>
+  </header>
+  <body>
+    <div id="HelpPageLinks">
+      <ul>
+        <li><a href="#description">Description</a></li>
+        <li><a href="#checklist">Checklist</a></li>
+        <li><a href="#cssDescription">CSS</a></li>
+        <li><a href="#usage">Usage</a></li>
+      </ul>
+    </div>
+    <div class="HelpPageBody">
+
+      <h1 id="description">Description</h1>
+        <p>Author: Nathaniel Fagrey</p>
+        <p>CSC468. Spring 2021. Web Project</p>
+        <p>Due March 26th 2021</p>
+        <p>
+            This web application is to is to demonstrate the basic knowledge of the common web tools such as HTML, Javascript, PHP, and CSS.
+            For our project we are going to be allowing users to manipulate a stickman figure. A user can upload an stick-man on the File 
+            Management page or they can use the ones provided.
+        </p>
+      <h1 id="checklist">Checklist</h1>
+      <p>
+          tier-less) Undo/redo pattern**	36<br>
+          X_ Undo/redo OOP followed<br>
+          X_ Able to do at least 1 undo/redo for 1 piece change<br>
+          X_ Able to do at least 1 undo/redo for 1 predesigned change<br>
+          X_ Able to do at least 5 undo/redo for 1 piece change<br>
+          X_ Able to do at least undo/redo for 1 predesigned change<br>
+          <br>
+          <br>
+          1) Finish Main page actions	10<br>
+          X_ Able to change to at least one predesigned stickman<br>
+          X_ Able to change to all predesigned stickmen<br>
+          <br>
+          2) Tier: Files	48<br>
+          X_ Able to save the current stickman<br>
+          X_ Stay on the main page with a save<br>
+          X_ Able to download at least one file (default is ok)<br>
+          X_ Able to download an application generated file<br>
+          X_ Able to upload a file<br>
+          X_ Loading a file redirects back to the main page<br>
+          X_ Loaded file properly displays with some file<br>
+          X_ Loaded file properly displays with app generated file<br>
+          X_ All functionality still works after file event<br>
+          X_ Able to save, download, upload, and load that same file<br>
+          <br>
+          3) Help page properly updated<br>
+          <br>
+          4) Extensions	30<br>
+          Extension 1: 1a 5pts CSS Feature Not discussed in class: Spinning undo symbol in Home Page.<br>
+          Extension 2: 1b 5pts Make a fancy page background: All background a gradient between two colors.<br>
+          Extension 3: 2d 5pts Allow any number of files: You can upload and save as many files as you want.<br>
+          Extension 4: 2e 5pts Delete file from server: File Management Page has Delete option for each file.<br>
+          Extension 5: Approved Extension 1 10pts "edit character" buttons to the left or right of your character:
+                       All edit buttons on left column on Home Page.
+      </p>
+      <h1 id="cssDescription">CSS</h1>
+        All CSS rules/modifications can be found in css/index.css.<br/>
+        <br/>
+
+        1. The background of a page must include a color other than white or a background image <br/>
+        <br>
+        I used a light green for my background.
+        <div class="cssRule">
+          body { <br/> 
+            background-color: #1abc9c; <br/>
+          } <br/>
+        </div>
+        
+        2. There must be a custom CSS header included in all pages (note, not heading).<br/>
+
+        <div class="cssRule">
+          .header { <br/>
+            text-align: center;<br/>
+            color: white;<br/>
+            font-size: 20px;<br/>
+          }<br/>
+        </div>
+
+
+        3. The CSS on the navigation bar must include a background color/image rule.<br/>
+        <div class="cssRule">
+          .nav { <br/>
+            margin: auto;<br/>
+            background-color: lightblue;<br/>
+            text-align: center;<br/>
+            border-style: solid;<br/>
+            padding: 10px;<br/>
+            width: 300px;<br/>
+            font-family: 'Courier New', Courier, monospace;<br/>
+        }
+        </div>
+
+        4. There must be a custom link (&lta&gt) rule.<br/>
+        <div class="cssRule">
+          a:active {<br/>
+            color: red;<br/>s
+        }<br/>
+        </div>
+
+        5. There may not be notable gaps between the stickman images.<br/>
+          <p>
+            For the vertical structure of the stickman, I used the rule:<br/>
+            <div class="cssRule">
+            .stickman{<br/>
+            float:right;<br/>
+            text-align: center;<br/>
+            border-style: solid;<br/>
+            line-height: 0;<br/>
+            padding-left: 200px;<br/>
+            padding-right: 200px;<br/>
+          }<br/>
+        </div>
+        This rule removed vertical space in the figure.
+          </p>
+          <p>
+            For the horizontal space, I just made sure there was no space between the beginning of one tag and the start of the other. <br/>
+          </p>
+        6. The stickman area must include a border of some sort.<br/>
+        <div class="cssRule">
+        .stickman{<br/>
+            float:right;<br/>
+            text-align: center;<br/>
+            border-style: solid;<br/>
+            line-height: 0;<br/>
+            padding-left: 200px;<br/>
+            padding-right: 200px;<br/>
+      }</div>
+      
+      7. The help page headings must have a font style change.  <br/>
+      <div class="cssRule">
+      .HelpPageBody{<br/>
+        color: white;<br/>
+        padding: 10px;<br/>
+        margin: 50px;<br/>
+        font-family: 'Courier New', Courier, monospace;<br/>
+    }</div>
+
+    <h2>All CSS Rules</h2>
+    <div class="cssRule">
+    body {<br/>
+      background-color: #1abc9c;<br/>
+  }<br/>
+</div>
+  <div class="cssRule">
+  .header {<br/>
+      text-align: center;<br/>
+      color: white;<br/>
+      font-size: 20px;<br/>
+    }<br/>
+  </div>
+  <div class="cssRule">
+  .nav {<br/>
+      margin: auto;<br/>
+      background-color: lightblue;<br/>
+      text-align: center;<br/>
+      border-style: solid;<br/>
+      padding: 10px;<br/>
+      width: 300px;<br/>
+      font-family: 'Courier New', Courier, monospace;<br/>
+  }<br/>
+</div>
+  <div class="cssRule">
+  .HelpPageBody{<br/>
+      color: white;<br/>
+      padding: 10px;<br/>
+      margin: 50px;<br/>
+      font-family: 'Courier New', Courier, monospace;<br/>
+  }<br/>
+</div>
+  <div class="cssRule">
+  #HelpPageLinks{<br/>
+      background-color: lightblue;<br/>
+      border-style: solid;<br/>
+      padding: 10px;<br/>
+      width: 300px;<br/>
+      font-family: 'Courier New', Courier, monospace;<br/>
+  }<br/>
+</div>
+  <div class="cssRule">
+  a:active {<br/>
+      color: red;<br/>
+  }<br/>
+</div>
+  <div class="cssRule">
+  .loadImage{<br/>
+      margin: 10px;<br/>
+  }<br/>
+</div>
+  <div class="cssRule">
+  .imageHead{<br/>
+      margin: auto;<br/>
+      text-align: center;<br/>
+      border-style: solid;<br/>
+      margin: 10px;<br/>
+  }<br/>
+</div>
+  <div class="cssRule">
+  .imageBody{<br/>
+      text-align: center;<br/>
+      border-style: solid;<br/>
+      margin: 10px;<br/>
+  }<br/>
+</div>
+  <div class="cssRule">
+  .imageArm{<br/>
+      text-align: center;<br/>
+      border-style: solid;<br/>
+      margin: 10px;<br/>
+  }<br/>
+</div>
+  <div class="cssRule">
+  .imageLegs{<br/>
+      margin: auto;<br/>
+      text-align: center;<br/>
+      border-style: solid;<br/>
+      margin: 10px;<br/>
+  }<br/>
+</div>
+  <div class="cssRule">
+  .buttonStd {<br/>
+      background-color: lightblue; <br/>
+      border: none;<br/>
+      color: black;<br/>
+      padding: 10px 10px;<br/>
+      text-align: center;<br/>
+      text-decoration: none;<br/>
+      display: inline-block;<br/>
+      font-size: 15px;<br/>
+      margin: 5px;<br/>
+  }<br/>
+</div>
+  <div class="cssRule">
+  #uploadTextBox{<br/>
+      height:36px;<br/>
+  }<br/>
+</div>
+  <div class="cssRule">
+  .stickman{<br/>
+      float:right;<br/>
+      text-align: center;<br/>
+      border-style: solid;<br/>
+      line-height: 0;<br/>
+      padding-left: 200px;<br/>
+      padding-right: 200px;<br/>
+  }<br/>
+</div>
+  <div class="cssRule">
+  .midsection{<br/>
+      line-break:loose;<br/>
+  }<br/>
+</div>
+  <div class="cssRule">
+  .displayButtons{<br/>
+      margin: 5px;<br/>
+  }<br/>
+</div>
+  <div class="cssRule">
+  .saveButton{<br/>
+      margin: auto;<br/>
+      text-align: right;<br/>
+  }<br/>
+</div>
+  <div class="cssRule">
+  .cssRule{<br/>
+      margin: 20px;<br/>
+  }<br/>
+</div>
+        <div class = "cssRule">
+            #downloadLink{<br/>
+        margin: 10px;<br/>
+        }<br/>
+        </div>
+        <div class = "cssRule">
+            .rotate{<br/>
+            width:50px;<br/>
+            height:50px;<br/>
+            animation: rotation 2s infinite linear;<br/>
+            }<br/>
+        </div>
+        <div class="cssRule">
+            @keyframes rotation {<br/>
+            from {<br/>
+            transform: rotate(359deg);<br/>
+            }<br/>
+            to {<br/>
+            transform: rotate(0deg);<br/>
+            }<br/>
+            }<br/>
+        </div>
+        <div>
+            #table {<br/>
+            float: left;<br/>
+            }<br/>
+        </div>
+      <h1 id="usage">Usage</h1>
+      <p>
+        Operating this application is simple. There are basically three major parts: the Home/Display page,
+        the File Management page, and the Help Page, where you are at.
+      <h2>Home Page</h2>
+        The home page displays the current state of the stickman. In this page you can switch
+        out different parts of the displayed stickman. For example, clicking the pirate hat button will immediately
+        change out the regular stickman head for a pirate hat. If you select the buttons 'Default', 'Pirate', or 'Leprechaun'
+        it will switch out the entire stickman to the predetermined figure.
+      </p>
+        <p>
+            Do not worry if you accidentally changed a part of the stickman you did not want to. You can simply use the undo
+            and redo buttons in the upper right hand corner of the stickman area to revert to any previous state. The save
+            button is right next to the undo/redo buttons and will allow you to save the current stickman to the server for
+            later access. You can access this saved file in the File Management Page...
+        </p>
+      <p>
+          <h2>File Management Page</h2>
+        In the File Management page, you can look to see what character files are available to load. You can also
+        upload as many of your own files that you want (files with the same name are overwritten). The
+        Download link next to each file, allows you to see what a file has in it, as well as, save it to your own computer
+        if you wish. All files displayed have a Load option which will take you back to the Home Page with the stickman
+        already having the file loaded into it. The Delete option next to files just removes that file.
+        <h3>Files</h3>
+        In order to successfully upload and load your files they must be a txt file in the following format:<br>
+        <br>
+        0<br>
+        2<br>
+        1<br>
+        1<br>
+        1<br>
+        <br>
+        A 0 refers to all images that are part of the Default stickman. 1 refers to all images that are part of the Pirate
+        stickman. 2 refers to all images that are part of the Leprechaun stickman. Line 1 is the head, line 2 is left-arm,
+        line 3 is body, line 4 is right-arm, and line 5 is legs. File are also saved in this format.
+
+      </p>
+      <p>
+          <h2>Help Page</h2>
+        Finally, the help page that you are on right now, gives a brief description of the project as well as lists all requirements,
+        extensions, and CSS rules.
+      </p>
+     <p>
+         <h2>Limitations</h2>
+        The only limitation a user might experience is that any kind of page refresh will destroy any previous history of
+        the stickman, and therefore undo/redo will not work.
+     </p>
+    </div>
+  </body>
+</html>

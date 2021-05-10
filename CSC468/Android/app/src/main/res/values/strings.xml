@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Wumbus Fagrey Nathaniel</string>
+    <string name="UP">UP</string>
+    <string name="DOWN">DOWN</string>
+    <string name="RIGHT">RIGHT</string>
+    <string name="LEFT">LEFT</string>
+    <string name="CHEAT">Cheat</string>
+    <string name="RESET">Reset</string>
+    <string name="ARROWS">Arrows: %1$d </string>
+    <string name="BOW">Bow: %1$s</string>
+    <string name="SCORE">Score: %1$d</string>
+    <string name="GAME_OVER_W">WUMBUS FOUND…GAME OVER!</string>
+    <string name="GAME_OVER_P">YOU FELL IN PIT…GAME OVER!</string>
+    <string name="WON">YOU ESCAPED!</string>
+    <string name="GAME_OVER_WA">WUMPUS STILL ALIVE!…GAME OVER!</string>
+    <string name="FOUND_ARROW">YOU FOUND AN ARROW!</string>
+    <string name="FOUND_BOW">YOU FOUND A BOW!</string>
+    <string name="FOUND_BAT">YOU FOUND A BAT!</string>
+    <string name="shoot_up">U</string>
+    <string name="shoot_right">R</string>
+    <string name="shoot_left">L</string>
+    <string name="shoot_down">D</string>
+    <string name="content">This is a button</string>
+</resources>
