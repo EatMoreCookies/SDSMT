@@ -1,0 +1,8 @@
+.hide {
+    display: none;
+}
+
+.input-card {
+    width: 400px;
+    border-radius: 8px;
+}

@@ -1,0 +1,110 @@
+button {
+
+}
+
+body {
+    margin: 0;
+    background-color: #C2CDD8;
+}
+
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+header {
+    width: 100%;
+    position: sticky;
+    top: 0;
+}
+
+.main-nav {
+    background-color: #13283E;
+    padding: 0 32px;
+}
+
+.sub-nav {
+    background-color: #1F4266;
+    padding: 0 48px;
+}
+
+.main-nav .button {
+    padding: 12px 24px;
+    display: inline-block;
+    color: #FFF;
+    cursor: pointer;
+    text-transform: uppercase;
+    text-decoration: none;
+    position: relative;
+}
+
+.main-nav .button.selected::before {
+    position: absolute;
+    width: 50%;
+    border-radius: 1px;
+    bottom: 15%;
+    right: 0;
+    left: 0%;
+    height: 2px;
+    color: transparent;
+    content: "PT";
+    margin: auto;
+    background-color: #4A698A;
+}
+
+.main-nav .button:hover {
+    background-color: #1F4266;
+}
+
+.sub-nav .button {
+    padding: 8px 24px;
+    display: inline-block;
+    color: #FFF;
+    cursor: pointer;
+    border-left: #1F4266 solid 2px;
+    border-right: #1F4266 solid 2px;
+}
+
+.sub-nav .button.selected {
+    background-color: #4A698A;
+    border-left: #5E7997 2px solid;
+    border-right: #5E7997 2px solid;
+}
+
+.sub-nav .button:hover {
+    background-color: #4A698A;
+}
+
+.input-card {
+    border-radius: 4px;
+    border: 2px solid #2B5A77;
+    display: inline-block;
+    margin: 32px 64px;
+    padding: 32px;
+    background-color: #D6DDE5;
+    box-shadow: 1px 3px 2px 0px #0A252E;
+}
+
+.input-card input[type="text"] {
+    display: block;
+    margin: auto;
+    background: none;
+    border: none;
+    padding: 8px 24px;
+    border-bottom: 2px solid #326A8B;
+}
+
+.input-card input[type="submit"] {
+    display: block;
+    margin: 16px auto;
+    background: #326A8B;
+    color: #FFF;
+    border:2px solid #326A8B;
+    border-radius: 4px;
+    padding: 4px 12px;
+}
+
+.input-card input[type="submit"]:hover {
+    background: #244B63;
+    border:2px solid #244B63;
+
+}

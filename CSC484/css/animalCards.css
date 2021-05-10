@@ -1,0 +1,31 @@
+.animal-card-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.animal-card {
+    width: 200px;
+    margin: 16px;
+    border: 2px solid #2B5A77;
+    border-radius: 8px;
+    padding: 16px 32px;
+    background-color: #D6DDE5;
+    box-shadow: 1px 3px 2px 0px #0A252E;
+}
+
+.animal-card h3 {
+    margin: 0 0 8px 0;
+    text-indent: 4px;
+}
+
+.animal-card h3 {
+    border-bottom: 2px solid #326A8B;
+}
+
+.animal-card p {
+    margin: 0 0 0 0;
+}
+.animal-card p {
+    text-indent: 4px;
+}
